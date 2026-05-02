@@ -31,8 +31,7 @@ E-Learning Quiz Platform (Java + MySQL)
 ├── Users.java
 ├── Topics.java
 └── *.form
-
----
+```
 
 ## 🗄️ Database Setup
 
