@@ -24,15 +24,13 @@ A simple desktop-based quiz platform built using **Java Swing** and **MySQL**. T
 
 ## 📂 Project Structure
 
-
-E-Learning Quiz Platform (Java + MySQL)/
-│
-├── Quiz_Platform.java # Main entry point
-├── login.java # Login form & authentication
-├── Users.java # User registration
-├── Topics.java # Topic management UI
-├── *.form # NetBeans GUI design files
-
+```
+E-Learning Quiz Platform (Java + MySQL)
+├── Quiz_Platform.java
+├── login.java
+├── Users.java
+├── Topics.java
+└── *.form
 
 ---
 
